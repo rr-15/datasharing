@@ -1,0 +1,495 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>TC 1</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>EC Fengshan</name>
+			<Placemark>
+				<name>Line 2</name>
+				<styleUrl>#line-DB4436-3-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.9672709,1.3834133,0.0 103.9685583,1.3801956,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 3</name>
+				<styleUrl>#line-DB4436-3-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.9685583,1.3801956,0.0 103.972249,1.381783,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 4</name>
+				<styleUrl>#line-DB4436-2-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.972249,1.381783,0.0 103.9754248,1.3767634,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 5</name>
+				<styleUrl>#line-DB4436-3-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.9754248,1.3767634,0.0 103.9733219,1.3750044,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 6</name>
+				<styleUrl>#line-DB4436-2-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.9733219,1.3750044,0.0 103.9746094,1.3740176,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 7</name>
+				<styleUrl>#line-DB4436-3-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.9746094,1.3740176,0.0 103.9608765,1.3600312,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 8</name>
+				<styleUrl>#line-DB4436-3-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.9608765,1.3600312,0.0 103.9652109,1.3491766,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 9</name>
+				<styleUrl>#line-DB4436-3-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.9652109,1.3491766,0.0 103.9581299,1.3507641,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 10</name>
+				<styleUrl>#line-DB4436-2-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.9581299,1.3507641,0.0 103.9401054,1.3359194,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 11</name>
+				<styleUrl>#line-DB4436-3-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.9401054,1.3359194,0.0 103.9251709,1.3483615,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 12</name>
+				<styleUrl>#line-DB4436-3-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.9251709,1.3483615,0.0 103.9179611,1.344586,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 13</name>
+				<styleUrl>#line-DB4436-3-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.9179611,1.344586,0.0 103.9189911,1.3321439,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 14</name>
+				<styleUrl>#line-DB4436-2-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.9189911,1.3321439,0.0 103.9052582,1.3261374,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 16</name>
+				<styleUrl>#line-DB4436-3-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.9052582,1.3261374,0.0 103.9050865,1.3168701,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 17</name>
+				<styleUrl>#line-DB4436-3-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.9050865,1.3168701,0.0 103.9136696,1.319616,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 18</name>
+				<styleUrl>#line-DB4436-2-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.9136696,1.319616,0.0 103.9179611,1.3084609,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 19</name>
+				<styleUrl>#line-DB4436-2-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.9179611,1.3084609,0.0 103.9241409,1.3113784,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 20</name>
+				<styleUrl>#line-DB4436-3-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.9241409,1.3113784,0.0 103.9279175,1.3033124,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 19</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7926161,1.3249093,0.0 103.7964892,1.3216754,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 20</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7964892,1.3216754,0.0 103.7995577,1.3228123,0.0 103.801918,1.3224691,0.0 103.8016176,1.3218255,0.0 103.8020897,1.3209889,0.0 103.8037634,1.3208173,0.0 103.8041925,1.3186935,0.0 103.8057563,1.3167307,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 21</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.8057563,1.3167307,0.0 103.8130331,1.3230429,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 22</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.8130331,1.3230429,0.0 103.8191271,1.3225442,0.0 103.8224101,1.321611,0.0 103.8255,1.3206779,0.0 103.8280749,1.3267059,0.0 103.8258648,1.3269955,0.0 103.8238156,1.3286473,0.0 103.8218415,1.3296984,0.0 103.819567,1.3306423,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 23</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.8163376,1.3684402,0.0 103.8168955,1.3688478,0.0 103.8169706,1.3692554,0.0 103.8168955,1.3697058,0.0 103.8171637,1.3702314,0.0 103.8179362,1.370757,0.0 103.8183868,1.3707784,0.0 103.8189554,1.3705746,0.0 103.8196313,1.3703279,0.0 103.8203502,1.3699204,0.0 103.8209295,1.369427,0.0 103.8209617,1.3689336,0.0 103.8205969,1.3681292,0.0 103.8200283,1.3674963,0.0 103.8192129,1.3672067,0.0 103.8188374,1.3673355,0.0 103.8188803,1.3667992,0.0 103.8189447,1.3661556,0.0 103.8186228,1.3661234,0.0 103.8183117,1.3660484,0.0 103.8180757,1.3660805,0.0 103.8180757,1.3658017,0.0 103.8175821,1.3652868,0.0 103.8168848,1.365319,0.0 103.8166165,1.3651581,0.0 103.8171744,1.3649865,0.0 103.8179255,1.3648363,0.0 103.8184726,1.3649329,0.0 103.8186336,1.3646433,0.0 103.8187408,1.3643537,0.0 103.8189554,1.3640105,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 24</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.8189554,1.3640105,0.0 103.8191164,1.3640426,0.0 103.8192666,1.3641713,0.0 103.81917,1.3644288,0.0 103.8197279,1.3659733,0.0 103.8216376,1.3673569,0.0 103.8220561,1.3678181,0.0 103.8226354,1.3681506,0.0 103.8231397,1.3682471,0.0 103.8233006,1.3681613,0.0 103.8231289,1.3674642,0.0 103.8227534,1.3664238,0.0 103.8224745,1.3656515,0.0 103.8226569,1.365673,0.0 103.8233113,1.3664667,0.0 103.8240194,1.3674427,0.0 103.8253391,1.367668,0.0 103.8261545,1.3700813,0.0 103.825779,1.3703601,0.0 103.8251674,1.3711538,0.0 103.8250601,1.3712075,0.0 103.8248885,1.3712825,0.0 103.8245666,1.3715507,0.0 103.8245344,1.3716365,0.0 103.8244164,1.3716794,0.0 103.8243198,1.3717652,0.0 103.8241482,1.3717116,0.0 103.8240087,1.3717866,0.0 103.8240838,1.3720441,0.0 103.8240194,1.3723551,0.0 103.8242126,1.3735135,0.0 103.8246417,1.3738245,0.0 103.8246524,1.3739211,0.0 103.8241696,1.3739533,0.0 103.8241267,1.3742107,0.0 103.824234,1.3745968,0.0 103.8241482,1.3747362,0.0 103.8237834,1.3745003,0.0 103.8232684,1.3748328,0.0 103.8231611,1.3746719,0.0 103.8233757,1.3743501,0.0 103.8235795,1.3738674,0.0 103.8235152,1.3731595,0.0 103.8230968,1.3727091,0.0 103.8228929,1.3726554,0.0 103.822453,1.3727198,0.0 103.8221633,1.3728378,0.0 103.8220239,1.3730737,0.0 103.8218093,1.3733312,0.0 103.8217556,1.3735778,0.0 103.8216269,1.3736637,0.0 103.8216698,1.3734062,0.0 103.8218307,1.3730952,0.0 103.821981,1.3727305,0.0 103.8220346,1.3720441,0.0 103.8219702,1.3717974,0.0 103.8212407,1.3717974,0.0 103.8203931,1.3720226,0.0 103.8198781,1.3724624,0.0 103.8204253,1.3720977,0.0 103.8195348,1.3727734,0.0 103.8190091,1.3734062,0.0 103.8187301,1.3736958,0.0 103.818537,1.3743179,0.0 103.8185799,1.3755299,0.0 103.8186872,1.3759161,0.0 103.8190734,1.3762915,0.0 103.8197386,1.3766347,0.0 103.8196743,1.3767848,0.0 103.8196528,1.3769136,0.0 103.8195455,1.3769886,0.0 103.8196206,1.377171,0.0 103.8195348,1.3772568,0.0 103.8195348,1.3774069,0.0 103.8194597,1.3773748,0.0 103.8187301,1.3763451,0.0 103.8184512,1.3761949,0.0 103.8180864,1.3761842,0.0 103.817625,1.3763129,0.0 103.8173676,1.3765382,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 25</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.8173676,1.3765382,0.0 103.8168097,1.3776215,0.0 103.81078,1.3899131,0.0 103.8109303,1.3891838,0.0 103.803699,1.3976141,0.0 103.8047075,1.3992873,0.0 103.8061666,1.4004243,0.0 103.8061666,1.4007675,0.0 103.8063383,1.4010034,0.0 103.8066816,1.4010678,0.0 103.8087201,1.404929,0.0 103.807776,1.4054224,0.0 103.8072395,1.4059158,0.0 103.8070035,1.4077391,0.0 103.803184,1.4159549,0.0 103.8003731,1.415719,0.0 103.7952232,1.4144748,0.0 103.790803,1.4129732,0.0 103.7891078,1.4124155,0.0 103.7836576,1.4111713,0.0 103.7725639,1.4099915,0.0 103.7718344,1.4099486,0.0 103.7708259,1.4100773,0.0 103.7685513,1.4100988,0.0 103.7633586,1.4104634,0.0 103.7627578,1.410635,0.0 103.7611699,1.4114287,0.0 103.7598181,1.4119007,0.0 103.7581229,1.4117719,0.0 103.7559342,1.4116218,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>hb</name>
+			<Placemark>
+				<name>Line 11</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7559342,1.4116218,0.0 103.7538958,1.3944179,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 12</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7538958,1.3944179,0.0 103.7537992,1.3913933,0.0 103.7551188,1.3887547,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 13</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7551188,1.3887547,0.0 103.7596464,1.3792947,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 14</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7596464,1.3792947,0.0 103.7612343,1.3798095,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 15</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7612343,1.3798095,0.0 103.7619102,1.3780827,0.0 103.7623715,1.3762271,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 16</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7623715,1.3762271,0.0 103.7627363,1.3742697,0.0 103.7630367,1.3722264,0.0 103.7637126,1.370344,0.0 103.7647104,1.3686118,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 17</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7647104,1.3686118,0.0 103.7666738,1.3661127,0.0 103.7675697,1.3647559,0.0 103.7678647,1.3631417,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 18</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7678003,1.3635278,0.0 103.7671392,1.3620423,0.0 103.7670788,1.3603851,0.0 103.7677306,1.3570279,0.0 103.7688612,1.3556175,0.0 103.7694767,1.3538638,0.0 103.77015,1.350571,0.0 103.7701037,1.3496727,0.0 103.7704437,1.3487744,0.0 103.7715099,1.3471923,0.0 103.772855,1.3459106,0.0 103.7742859,1.3452295,0.0 103.7757383,1.3442695,0.0 103.7768904,1.3430093,0.0 103.7780853,1.3417275,0.0 103.778851,1.3402313,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 19</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.778851,1.3402313,0.0 103.779425,1.3396413,0.0 103.7793553,1.3387082,0.0 103.7790495,1.3379466,0.0 103.7792587,1.3371851,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 20</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7792587,1.3371851,0.0 103.7782797,1.3376906,0.0 103.77775,1.3379574,0.0 103.7773114,1.3384293,0.0 103.7766597,1.3392981,0.0 103.7760723,1.3402299,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 22</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7760924,1.3402353,0.0 103.7755328,1.3402249,0.0 103.7749933,1.3402105,0.0 103.7744499,1.3401947,0.0 103.773901,1.3402058,0.0 103.7735964,1.3402054,0.0 103.7732972,1.3402413,0.0 103.772688,1.3403265,0.0 103.772424,1.3404391,0.0 103.7721666,1.3406281,0.0 103.7717566,1.3410116,0.0 103.7714781,1.3408417,0.0 103.7711807,1.3407174,0.0 103.7705942,1.3404609,0.0 103.7698717,1.3403285,0.0 103.7691894,1.339995,0.0 103.76855,1.3396078,0.0 103.7682352,1.3395049,0.0 103.7678989,1.3394986,0.0 103.7671834,1.3395931,0.0 103.766016,1.339709,0.0 103.7648271,1.3396105,0.0 103.7636597,1.3392438,0.0 103.7629687,1.3391999,0.0 103.7626553,1.3390492,0.0 103.7624922,1.3387484,0.0 103.7621419,1.3381682,0.0 103.7615769,1.3378883,0.0 103.761012,1.337705,0.0 103.7604471,1.3376074,0.0 103.759625,1.3353939,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 23</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.759625,1.3353939,0.0 103.7644637,1.3327875,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 24</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7644637,1.3327875,0.0 103.7640908,1.3306503,0.0 103.7640184,1.3284059,0.0 103.7641954,1.32396,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 25</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7641954,1.32396,0.0 103.7631413,1.3242737,0.0 103.7625928,1.3243984,0.0 103.7620872,1.3243301,0.0 103.7615655,1.3242349,0.0 103.7610438,1.3239681,0.0 103.7601078,1.3233915,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 26</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7601078,1.3233915,0.0 103.7624654,1.3197366,0.0 103.7636979,1.3179173,0.0 103.7648553,1.3160764,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 27</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7648553,1.3160764,0.0 103.7655597,1.3165721,0.0 103.7659038,1.31693,0.0 103.7660227,1.3174487,0.0 103.7660851,1.3189282,0.0 103.7665347,1.3196224,0.0 103.7671023,1.3202468,0.0 103.7677396,1.3207989,0.0 103.7683985,1.321308,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 28</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7683985,1.321308,0.0 103.778336,1.3137167,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 29</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.778336,1.3137167,0.0 103.7778425,1.3128157,0.0 103.7776172,1.3122258,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 31</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7776172,1.3122258,0.0 103.7810612,1.3098339,0.0 103.7835234,1.3085199,0.0 103.7847975,1.3076806,0.0 103.7859643,1.3077208,0.0 103.787249,1.307997,0.0 103.7885767,1.3076297,0.0 103.791039,1.3071094,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 32</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.791039,1.3071094,0.0 103.7915325,1.3089436,0.0 103.790406,1.3105632,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 33</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.790406,1.3105632,0.0 103.7875655,1.3143334,0.0 103.7848538,1.3182002,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 34</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7848485,1.3182002,0.0 103.7865543,1.3179856,0.0 103.787072,1.3177282,0.0 103.7875146,1.3173957,0.0 103.7900948,1.3211123,0.0 103.7914038,1.3229866,0.0 103.7926161,1.3249093,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 23</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.819567,1.3306423,0.0 103.8152969,1.3332058,0.0 103.8131297,1.3338922,0.0 103.8117349,1.334568,0.0 103.7999439,1.3456156,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Line 24</name>
+				<styleUrl>#line-000000-1-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>103.7999439,1.3456156,0.0 103.8163376,1.3684402,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Untitled layer</name>
+		</Folder>
+		<Folder>
+			<name>Untitled layer</name>
+		</Folder>
+		<Style id='line-000000-1-nodesc-normal'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>1</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-000000-1-nodesc-highlight'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>2.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-000000-1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-000000-1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-000000-1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-DB4436-2-nodesc-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-DB4436-2-nodesc-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>3.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-DB4436-2-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-DB4436-2-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-DB4436-2-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-DB4436-3-nodesc-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>3</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-DB4436-3-nodesc-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>5.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-DB4436-3-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-DB4436-3-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-DB4436-3-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
